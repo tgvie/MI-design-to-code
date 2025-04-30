@@ -1,6 +1,6 @@
 # 🌿 Gläntan – A rental living concept
 
-**🔗 Demo: link**
+**🔗 Demo: https://tgvie.github.io/MI-design-to-code/**
 
 This was part of an assignment where each team designed a website in Figma and then handed it off to another team for development. This project is the result of our team's effort to turn someone else's design into a fully functional website!
 
@@ -74,9 +74,9 @@ One of my proudest contributions to this project was animating the original logo
 ## ✍️ Author/s
 | 🎨 Design's team | 🧑‍💻 Dev's team |
 | ------------- | ---------- |
-| 🖌️ [@axandranathalie](https://github.com/axandranathalie) | ⌨️ [@angien90](https://github.com/angien90) |
-| 🖌️ [@ellinorjohansson](https://github.com/ellinorjohansson) | ⌨️ [@DavidBrunni](https://github.com/DavidBrunni) |
-| 🖌️ [@KarinHson](https://github.com/KarinHson) | ⌨️ [@M-Lenvik](https://github.com/M-Lenvik) |
-| 🖌️ [@TeaGross](https://github.com/TeaGross) | ⌨️ [@tgvie](https://github.com/tgvie) |
+| [@axandranathalie](https://github.com/axandranathalie) | [@angien90](https://github.com/angien90) |
+| [@ellinorjohansson](https://github.com/ellinorjohansson) | [@DavidBrunni](https://github.com/DavidBrunni) |
+| [@KarinHson](https://github.com/KarinHson) | [@M-Lenvik](https://github.com/M-Lenvik) |
+| [@TeaGross](https://github.com/TeaGross) | [@tgvie](https://github.com/tgvie) |
 
 </div>
